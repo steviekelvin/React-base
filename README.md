@@ -21,7 +21,7 @@
 - Clone o projeto usando:
 
 ```bash
-  git clone <>
+  git clone https://github.com/steviekelvin/React-base
 ```
 
 - Acesse a pasta do projeto:
