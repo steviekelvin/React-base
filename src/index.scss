@@ -1,0 +1,13 @@
+@import "primereact/resources/themes/saga-blue/theme.css"; // tema
+@import "primereact/resources/primereact.min.css"; // estilos de componentes
+@import "primeicons/primeicons.css"; // ícones
+@import "primeflex/primeflex.css"; // utilitários flex
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.text-center {
+  text-align: center;
+}
