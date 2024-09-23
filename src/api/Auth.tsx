@@ -7,7 +7,7 @@ import {
   LoginInterface,
   RegisterInterface,
   ResetPasswordInterface,
-} from "../interfaces/AuthInterface copy";
+} from "../interfaces/AuthInterface";
 import { Conn } from "./Conn";
 
 // Exemplo de uso da classe base

@@ -61,6 +61,5 @@ export abstract class ConnBase {
     } else {
       console.error("Erro desconhecido:", error);
     }
-    // Throw error has been added in the catch blocks of getBase and postBase methods.
   }
 }

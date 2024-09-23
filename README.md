@@ -18,17 +18,15 @@
 
 ## Modo de instalação
 
-- Clone o projeto usando:
-
-```bash
-  git clone https://github.com/steviekelvin/React-base
-```
+- Clone o projeto.
 
 - Acesse a pasta do projeto:
 
 ```bash
   cd React-base
 ```
+
+- Copie o .env.example para .env na raiz do projeto
 
 - Instale as dependências do projeto usando npm
 
@@ -41,3 +39,7 @@
 ```bash
   npm run dev
 ```
+
+Imagens do projeto:
+
+![Projeto React com controle de estado Global via Redux](.example/react.png)
